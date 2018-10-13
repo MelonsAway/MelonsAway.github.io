@@ -100,3 +100,21 @@ h1 {
   display: inline;
   text-decoration: none;
 }
+.asideheader {
+  display: block;
+}
+.contact {
+  display: inline;
+  text-decoration: none;
+  padding-left: 30px;
+}
+.b {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding-left: 30px;
+}
+.c {
+  text-decoration: none;
+  color: #551A27;
+}
