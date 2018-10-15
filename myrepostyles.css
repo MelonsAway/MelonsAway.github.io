@@ -138,3 +138,7 @@ h1 {
   width: 200px;
   height: 414px;
 }
+.big {
+  font-size: 3em;
+  text-align: center;
+}
